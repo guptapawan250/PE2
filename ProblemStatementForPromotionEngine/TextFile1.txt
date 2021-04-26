@@ -1,0 +1,20 @@
+﻿This is the sample input test data
+
+total number of order
+3
+enter the type of product:A,B,C or D
+A
+
+enter the count of product A,B,C or D
+5
+enter the type of product:A,B,C or D
+B
+
+enter the count of product A,B,C or D
+5
+enter the type of product:A,B,C or D
+C
+
+enter the count of product A,B,C or D
+1
+370
